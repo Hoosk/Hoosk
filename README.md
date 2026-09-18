@@ -43,10 +43,10 @@ The kind of developer who reads "cloud" as "someone else's computer" and takes i
 Recent posts from [Mediopixel](https://mediopixel.net), written in Spanish:
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Quien esta destruyendo el videojuego?](https://mediopixel.net/posts/quien-esta-destruyendo-el-videojuego/) — physical games, digital-only futures, and yelling at clouds with sources.
-- [Añadiendo búsqueda al blog](https://mediopixel.net/posts/a%C3%B1adiendo-busqueda-al-blog/) — Hugo has no database, so: fuse.js.
-- [La Rendicion Cognitiva](https://mediopixel.net/posts/la-rendicion-cognitiva/) — on not thinking, LLMs, and the comfort of the sofa.
-- [Esquivando re-renders en React: de useEffect a los signals](https://mediopixel.net/posts/esquivando-rerenders-react-signals/) — the article that accidentally became minisignals.
+- [¿Quien esta destruyendo el videojuego?](https://mediopixel.net/posts/quien-esta-destruyendo-el-videojuego/)
+- [Añadiendo búsqueda al blog](https://mediopixel.net/posts/a%C3%B1adiendo-busqueda-al-blog/)
+- [La Rendicion Cognitiva](https://mediopixel.net/posts/la-rendicion-cognitiva/)
+- [Esquivando re-renders en React: de useEffect a los signals.](https://mediopixel.net/posts/esquivando-rerenders-react-signals/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
