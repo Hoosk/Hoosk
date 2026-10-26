@@ -43,10 +43,10 @@ The kind of developer who reads "cloud" as "someone else's computer" and takes i
 Recent posts from [Mediopixel](https://mediopixel.net), written in Spanish:
 
 <!-- BLOG-POST-LIST:START -->
+- [DeGoogle - Alternativas a Google Photos](https://mediopixel.net/posts/degoogle-alternativas-a-google-photos/)
 - [¿Quien esta destruyendo el videojuego?](https://mediopixel.net/posts/quien-esta-destruyendo-el-videojuego/)
 - [Añadiendo búsqueda al blog](https://mediopixel.net/posts/a%C3%B1adiendo-busqueda-al-blog/)
 - [La Rendicion Cognitiva](https://mediopixel.net/posts/la-rendicion-cognitiva/)
-- [Esquivando re-renders en React: de useEffect a los signals.](https://mediopixel.net/posts/esquivando-rerenders-react-signals/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Elsewhere
